@@ -1,0 +1,27 @@
+
+h1 { 
+	font-style: italic;
+	font-size: x-large;
+	color: #ff9966;
+}
+
+table {
+	border: 2px solid black;
+	font-size: x-large;	
+}
+
+td:hover {
+	background-color: #ffcccc;
+	color: 666699;
+}
+
+tr, th {
+	background-color: #003300;
+	color: #b3b3cc;
+}
+
+tr, td {
+	background-color: #00ffff;
+	color: #009999;
+}
+
